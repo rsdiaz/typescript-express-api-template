@@ -5,8 +5,12 @@
     "titleBar.activeForeground": "#ECFDFA"
   },
   "cSpell.words": [
+    "jestjs",
+    "npmjs",
     "precommit",
     "tseslint",
-    "typecheck"
+    "typecheck",
+    "typescriptlang",
+    "typicode"
   ]
 }
