@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#05342B",
+    "titleBar.activeBackground": "#07493D",
+    "titleBar.activeForeground": "#ECFDFA"
+  },
+  "cSpell.words": [
+    "precommit",
+    "tseslint",
+    "typecheck"
+  ]
+}
