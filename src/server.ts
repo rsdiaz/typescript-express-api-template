@@ -26,10 +26,6 @@ export class Server {
 		this.server.close()
 		console.log('Servidor parado')
 	}
-
-	getApp() {
-		return this.app
-	}
 }
 
 const server = new Server()
